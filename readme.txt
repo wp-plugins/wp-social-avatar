@@ -1,5 +1,6 @@
 === WP Social Avatar ===
 Contributors: marutim
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=marutimohanty89@gmail.com&item_name=WP%20Social%20Avatar
 Tags: social avatar, avatar, gravatar, social
 Requires at least: 3.3.1
 Tested up to: 4.0
