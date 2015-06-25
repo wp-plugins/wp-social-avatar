@@ -11,6 +11,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 This plugin gives the users the option to use their social profile picture as the WordPress Avatar
 
 == Description ==
+<blockquote>
+Presently the facebook's profile picture functionality for some account is not working due to recent change in facebook APIs. So for the time being please use the Google Plus profile picture or uncheck both the option to use the default gravatar picture. I am working on the fix and will update ASAP. Thanks for your patience and cooperation.
+</blockquote>
+
 As the name suggests, this plugin allows you to use the social profile picture as your WordPress Avatar.
 You can see more, on how to install and use the plugin here in this blog [WP Social Avatar](http://www.sourcexpress.com/wp-social-avatar/)
 
